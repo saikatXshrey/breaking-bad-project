@@ -4,6 +4,10 @@ This project gives information about all the characters in one of my favourite W
 
 Also it filters the characters as we search for particular ones
 
+# Live Link
+
+[Breaking Bad Live🚀](https://saikatxshrey.github.io/breaking-bad-project/)
+
 # Demo
 Project Video
 
